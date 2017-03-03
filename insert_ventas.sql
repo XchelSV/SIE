@@ -6163,3 +6163,737 @@ INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta
 INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '52', '16');
 INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '52', '16');
 INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '52', '16');
+
+/*************************************************
+Superintendencia de Ventas Acapulco
+**************************************************/
+
+/* Superintendecia de Ventas Acapulco GASOLINAS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '42134.976', '334859319.11', '2015-01-01', '35', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '36470.934', '224750292.53', '2015-02-01', '35', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '41501.676', '287401069.88', '2015-03-01', '35', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '43511.963', '338011070.31', '2015-04-01', '35', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '41159.873', '313859535.31', '2015-05-01', '35', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '36927.231', '316232842.66', '2015-06-01', '35', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '41065.765', '377762675.84', '2015-07-01', '35', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '39261.958', '361456003.91', '2015-08-01', '35', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '35886.787', '301813810.74', '2015-09-01', '35', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '37090.145', '268674347.61', '2015-10-01', '35', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '36682.916', '261295544.68', '2015-11-01', '35', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '44911.866', '308709785.16', '2015-12-01', '35', '1');
+
+/* Superintendecia de Ventas Acapulco NOVA */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '41501.676', '287401069.88', '2015-03-01', '35', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '36470.934', '224750292.53', '2015-02-01', '35', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '41159.873', '313859535.31', '2015-05-01', '35', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '42134.976', '334859319.11', '2015-01-01', '35', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '36927.231', '316232842.66', '2015-06-01', '35', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '41065.765', '377762675.84', '2015-07-01', '35', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '39261.958', '361456003.91', '2015-08-01', '35', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '35886.787', '301813810.74', '2015-09-01', '35', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '37090.145', '268674347.61', '2015-10-01', '35', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '36682.916', '261295544.68', '2015-11-01', '35', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '44911.866', '308709785.16', '2015-12-01', '35', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '43511.963', '338011070.31', '2015-04-01', '35', '2');
+
+/* Superintendecia de Ventas Acapulco PEMEX MAGNA */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '21230.49', '225808580.72', '2015-03-01', '35', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19130.718', '149828562.53', '2015-02-01', '35', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '20711.663', '194453954.99', '2015-05-01', '35', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '20579.08', '227799352.09', '2015-01-01', '35', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '21195.11', '207917607.97', '2015-06-01', '35', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19796.955', '209747017.70', '2015-07-01', '35', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '20669.575', '236330599.50', '2015-08-01', '35', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19946.53', '230534283.70', '2015-09-01', '35', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19221.7', '189949213.42', '2015-10-01', '35', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '20090.3', '170799615.84', '2015-11-01', '35', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19033.08', '166406621.72', '2015-12-01', '35', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '18785.596', '192017250.66', '2015-04-01', '35', '3');
+
+/* Superintendecia de Ventas Acapulco PEMEX PREMIUM */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5016.9', '109050738.39', '2015-03-01', '35', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '4756.1', '74921730.00', '2015-02-01', '35', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5539.5', '92947114.89', '2015-05-01', '35', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5786.8', '110211718.22', '2015-01-01', '35', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5519', '105941927.34', '2015-06-01', '35', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5334.1', '106485824.96', '2015-07-01', '35', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5844.4', '141432076.34', '2015-08-01', '35', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5442.6', '130921720.21', '2015-09-01', '35', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5546.3', '111864597.32', '2015-10-01', '35', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5947.2', '97874731.77', '2015-11-01', '35', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5468.8', '94888922.96', '2015-12-01', '35', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '6938.3', '116692534.50', '2015-04-01', '35', '4');
+
+/* Superintendecia de Ventas Acapulco OTRAS GASOLINAS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '35', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '35', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '35', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '35', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '35', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '35', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '35', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '35', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '35', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '35', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '35', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '35', '5');
+
+/* Superintendecia de Ventas Acapulco QUEROSENOS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '35', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '35', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '35', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '35', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '35', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '35', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '35', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '35', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '35', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '35', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '35', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '35', '6');
+
+/* Superintendecia de Ventas Acapulco TURBOSINA */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '35', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '35', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '35', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '35', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '35', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '35', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '35', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '35', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '35', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '35', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '35', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '35', '7');
+
+/* Superintendecia de Ventas Acapulco OTROS QUEROSENOS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '35', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '35', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '35', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '35', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '35', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '35', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '35', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '35', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '35', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '35', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '35', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '35', '8');
+
+/* Superintendecia de Ventas Acapulco DIESEL */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '11695.097', '95902324.71', '2015-03-01', '35', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '10443.412', '67152487.41', '2015-02-01', '35', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '11955.131', '84162312.98', '2015-05-01', '35', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '11417.949', '85485484.00', '2015-01-01', '35', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '11913.124', '85373309.08', '2015-06-01', '35', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '10159.278', '81981705.41', '2015-07-01', '35', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '10827.18', '84360978.37', '2015-08-01', '35', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '10578.555', '77967522.05', '2015-09-01', '35', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9526.544', '65506664.15', '2015-10-01', '35', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9776.062', '66597813.09', '2015-11-01', '35', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9915.732', '66497802.47', '2015-12-01', '35', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '10236.111', '66262369.12', '2015-04-01', '35', '9');
+
+/* Superintendecia de Ventas Acapulco GASÓLEO DOMÉSTICO */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '35', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '35', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '35', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '35', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '35', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '35', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '35', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '35', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '35', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '35', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '35', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '35', '10');
+
+/* Superintendecia de Ventas Acapulco GASÓLEO INDUSTRIAL */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '35', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '35', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '35', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '35', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '35', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '35', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '35', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '35', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '35', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '35', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '35', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '35', '11');
+
+/* Superintendecia de Ventas Acapulco COMBUSTÓLEO */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '35', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '35', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '35', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '35', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '35', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '35', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '35', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '35', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '35', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '35', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '35', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '35', '12');
+
+/* Superintendecia de Ventas Acapulco ASFALTOS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '35', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '35', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '35', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '35', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '35', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '35', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '35', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '35', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '35', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '35', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '35', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '35', '13');
+
+/* Superintendecia de Ventas Acapulco LUBRICANTES */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '35', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '35', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '35', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '35', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '35', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '35', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '35', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '35', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '35', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '35', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '35', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '35', '14');
+
+/* Superintendecia de Ventas Acapulco PARAFINAS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '35', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '35', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '35', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '35', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '35', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '35', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '35', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '35', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '35', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '35', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '35', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '35', '15');
+
+/* Superintendecia de Ventas Acapulco OTROS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '35', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '35', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '35', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '35', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '35', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '35', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '35', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '35', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '35', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '35', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '35', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '35', '16');
+
+/*************************************************
+Superintendencia de Ventas Iguala
+**************************************************/
+
+/* Superintendecia de Ventas Iguala GASOLINAS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '42134.976', '334859319.11', '2015-01-01', '36', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '36470.934', '224750292.53', '2015-02-01', '36', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '41501.676', '287401069.88', '2015-03-01', '36', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '43511.963', '338011070.31', '2015-04-01', '36', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '41159.873', '313859535.31', '2015-05-01', '36', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '36927.231', '316232842.66', '2015-06-01', '36', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '41065.765', '377762675.84', '2015-07-01', '36', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '39261.958', '361456003.91', '2015-08-01', '36', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '35886.787', '301813810.74', '2015-09-01', '36', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '37090.145', '268674347.61', '2015-10-01', '36', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '36682.916', '261295544.68', '2015-11-01', '36', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '44911.866', '308709785.16', '2015-12-01', '36', '1');
+
+
+/* Superintendecia de Ventas Iguala NOVA */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '36', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '36', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '36', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '36', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '36', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '36', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '36', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '36', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '36', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '36', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '36', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '36', '2');
+
+/* Superintendecia de Ventas Iguala PEMEX MAGNA */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '21230.49', '164444318.87', '2015-01-01', '36', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19130.718', '116471969.39', '2015-02-01', '36', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '20711.663', '143061695.10', '2015-03-01', '36', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '20579.08', '164008158.08', '2015-04-01', '36', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '21195.11', '167057197.99', '2015-05-01', '36', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19796.955', '173320855.68', '2015-06-01', '36', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '20669.575', '189410793.39', '2015-07-01', '36', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19946.53', '183855669.66', '2015-08-01', '36', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19221.7', '162828418.92', '2015-09-01', '36', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '20090.3', '147940617.99', '2015-10-01', '36', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19033.08', '135862886.10', '2015-11-01', '36', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '18785.596', '127246366.57', '2015-12-01', '36', '3');
+
+/* Superintendecia de Ventas Iguala PEMEX PREMIUM */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5016.9', '46672005.87', '2015-01-01', '36', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '4756.1', '36466754.71', '2015-02-01', '36', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5539.5', '45458785.79', '2015-03-01', '36', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5786.8', '53960456.64', '2015-04-01', '36', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5519', '50868446.40', '2015-05-01', '36', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5334.1', '55584618.80', '2015-06-01', '36', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5844.4', '63155204.62', '2015-07-01', '36', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5442.6', '58797129.17', '2015-08-01', '36', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5546.3', '57962727.24', '2015-09-01', '36', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5947.2', '52422453.26', '2015-10-01', '36', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5468.8', '47516852.87', '2015-11-01', '36', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '6938.3', '57605129.98', '2015-12-01', '36', '4');
+
+
+/* Superintendecia de Ventas Iguala OTRAS GASOLINAS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '36', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '36', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '36', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '36', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '36', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '36', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '36', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '36', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '36', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '36', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '36', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '36', '5');
+
+/* Superintendecia de Ventas Iguala QUEROSENOS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '36', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '36', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '36', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '36', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '36', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '36', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '36', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '36', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '36', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '36', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '36', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '36', '6');
+
+/* Superintendecia de Ventas Iguala TURBOSINA */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '36', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '36', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '36', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '36', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '36', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '36', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '36', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '36', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '36', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '36', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '36', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '36', '7');
+
+/* Superintendecia de Ventas Iguala OTROS QUEROSENOS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '36', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '36', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '36', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '36', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '36', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '36', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '36', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '36', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '36', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '36', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '36', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '36', '8');
+
+/* Superintendecia de Ventas Iguala DIESEL */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9375.8', '95902324.71', '2015-01-01', '36', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9375.8', '67152487.41', '2015-02-01', '36', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9471.584', '84162312.98', '2015-03-01', '36', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9186.756', '85485484.00', '2015-04-01', '36', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '8553.538', '85373309.08', '2015-05-01', '36', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9585.837', '81981705.41', '2015-06-01', '36', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '8860.355', '84360978.37', '2015-07-01', '36', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '8348.213', '77967522.05', '2015-08-01', '36', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '8125.887', '65506664.15', '2015-09-01', '36', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '8248.908', '66597813.09', '2015-10-01', '36', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '8025.724', '66497802.47', '2015-11-01', '36', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '8260.623', '66262369.12', '2015-12-01', '36', '9');
+
+/* Superintendecia de Ventas Iguala GASÓLEO DOMÉSTICO */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '36', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '36', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '36', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '36', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '36', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '36', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '36', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '36', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '36', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '36', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '36', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '36', '10');
+
+/* Superintendecia de Ventas Iguala GASÓLEO INDUSTRIAL */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '36', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '36', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '36', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '36', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '36', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '36', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '36', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '36', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '36', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '36', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '36', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '36', '11');
+
+/* Superintendecia de Ventas Iguala COMBUSTÓLEO */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '36', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '36', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '36', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '36', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '36', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '36', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '36', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '36', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '36', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '36', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '36', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '36', '12');
+
+/* Superintendecia de Ventas Iguala ASFALTO */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '36', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '36', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '36', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '36', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '36', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '36', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '36', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '36', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '36', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '36', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '36', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '36', '13');
+
+/* Superintendecia de Ventas Iguala LUBRICANTES */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '36', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '36', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '36', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '36', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '36', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '36', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '36', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '36', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '36', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '36', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '36', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '36', '14');
+
+/* Superintendecia de Ventas Iguala PARAFINAS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '36', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '36', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '36', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '36', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '36', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '36', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '36', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '36', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '36', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '36', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '36', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '36', '15');
+
+/* Superintendecia de Ventas Iguala OTROS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '36', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '36', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '36', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '36', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '36', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '36', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '36', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '36', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '36', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '36', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '36', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '36', '16');
+
+/*************************************************
+Superintendencia de Ventas TULA
+**************************************************/
+
+/* Superintendecia de Ventas Tula GASOLINAS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '59789.819', '458873704.18', '2015-01-01', '37', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '57552.137', '337905278.90', '2015-02-01', '37', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '65129.574', '436349751.76', '2015-03-01', '37', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '62140.429', '469951626.46', '2015-04-01', '37', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '46401.955', '345660419.50', '2015-05-01', '37', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '65002.955', '552487849.42', '2015-06-01', '37', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '65242.309', '589918860.54', '2015-07-01', '37', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '57092.337', '508117118.78', '2015-08-01', '37', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '48725.248', '415232381.91', '2015-09-01', '37', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '74326.698', '529062381.69', '2015-10-01', '37', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '84240.49', '594402492.50', '2015-11-01', '37', '1');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '93602.613', '634462538.49', '2015-12-01', '37', '1');
+
+/* Superintendecia de Ventas Tula NOVA */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '37', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '37', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '37', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '37', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '37', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '37', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '37', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '37', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '37', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '37', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '37', '2');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '37', '2');
+
+/* Superintendecia de Ventas Tula PEMEX MAGNA */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '51610.808', '383274696.19', '2015-01-01', '37', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '51113.464', '289562285.60', '2015-02-01', '37', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '57360.007', '373002259.18', '2015-03-01', '37', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '54818.525', '403201851.85', '2015-04-01', '37', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '38682.726', '276122898.74', '2015-05-01', '37', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '49285.601', '392664603.37', '2015-06-01', '37', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '46919.219', '391875667.24', '2015-07-01', '37', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '44725.357', '374339718.11', '2015-08-01', '37', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '32500.144', '249347206.46', '2015-09-01', '37', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '56388.143', '375276441.81', '2015-10-01', '37', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '61936.91', '405562347.84', '2015-11-01', '37', '3');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '69400.861', '438687064.27', '2015-12-01', '37', '3');
+
+/* Superintendecia de Ventas Tula PEMEX PREMIUM */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '8179.011', '75599007.99', '2015-01-01', '37', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '6408.924', '48036435.81', '2015-02-01', '37', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '7240.909', '57899777.67', '2015-03-01', '37', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '7049.181', '64264638.42', '2015-04-01', '37', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '7578.912', '68273885.80', '2015-05-01', '37', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '15717.354', '159823246.05', '2015-06-01', '37', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '18323.09', '198043193.30', '2015-07-01', '37', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '12366.98', '133777400.67', '2015-08-01', '37', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '16225.104', '165885175.45', '2015-09-01', '37', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '17938.555', '153785939.88', '2015-10-01', '37', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '21848.265', '184193304.70', '2015-11-01', '37', '4');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '23963.059', '193843926.08', '2015-12-01', '37', '4');
+
+/* Superintendecia de Ventas Tula OTRAS GASOLINAS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '37', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '29.749', '306557.49', '2015-02-01', '37', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '528.658', '5447714.91', '2015-03-01', '37', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '272.723', '2485136.19', '2015-04-01', '37', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '140.317', '1263634.96', '2015-05-01', '37', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '37', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '37', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '37', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '37', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '37', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '455.315', '4646839.96', '2015-11-01', '37', '5');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '238.693', '1931548.14', '2015-12-01', '37', '5');
+
+/* Superintendecia de Ventas Tula QUEROSENOS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9491.608', '56678655.21', '2015-01-01', '37', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9474.939', '60947744.67', '2015-02-01', '37', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '6731.2', '45224018.48', '2015-03-01', '37', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '4876.881', '32638188.96', '2015-04-01', '37', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '3971.119', '30165715.82', '2015-05-01', '37', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19968.264', '150335724.78', '2015-06-01', '37', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '13269.88', '94911030.70', '2015-07-01', '37', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9103.012', '60825681.04', '2015-08-01', '37', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '3564.544', '22745184.35', '2015-09-01', '37', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '15626.648', '102570687.07', '2015-10-01', '37', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5689.608', '34874656.65', '2015-11-01', '37', '6');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '20767.249', '114590994.10', '2015-12-01', '37', '6');
+
+/* Superintendecia de Ventas Tula TURBOSINA */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9491.608', '56678655.21', '2015-01-01', '37', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9474.939', '60947744.67', '2015-02-01', '37', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '6731.2', '45224018.48', '2015-03-01', '37', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '4876.881', '32638188.96', '2015-04-01', '37', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '3971.119', '30165715.82', '2015-05-01', '37', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19968.264', '150335724.78', '2015-06-01', '37', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '13269.88', '94911030.70', '2015-07-01', '37', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '9103.012', '60825681.04', '2015-08-01', '37', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '3564.544', '22745184.35', '2015-09-01', '37', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '15626.648', '102570687.07', '2015-10-01', '37', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '5689.608', '34874656.65', '2015-11-01', '37', '7');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '20767.249', '114590994.10', '2015-12-01', '37', '7');
+
+/* Superintendecia de Ventas Tula OTROS QUEROSENOS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '37', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '37', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '37', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '37', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '37', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '37', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '37', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '37', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '37', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '37', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '37', '8');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '37', '8');
+
+/* Superintendecia de Ventas Tula DIESEL */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '76278.357', '618973069.45', '2015-01-01', '37', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '57649.612', '365517177.11', '2015-02-01', '37', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '47524.35', '329895226.24', '2015-03-01', '37', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '45883.12', '338162809.39', '2015-04-01', '37', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '71254.016', '502510135.04', '2015-05-01', '37', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '68451.366', '544799402.38', '2015-06-01', '37', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '88015.247', '676987514.89', '2015-07-01', '37', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '56598.006', '413728963.06', '2015-08-01', '37', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '60328.224', '409656516.02', '2015-09-01', '37', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '77199.315', '518877272.58', '2015-10-01', '37', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '76450.319', '505486665.91', '2015-11-01', '37', '9');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '94032.723', '598574081.24', '2015-12-01', '37', '9');
+
+/* Superintendecia de Ventas Tula GASÓLEO DOMÉSTICO */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '37', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '37', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '37', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '37', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '37', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '37', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '37', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '37', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '37', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '37', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '37', '10');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '37', '10');
+
+/* Superintendecia de Ventas Tula GASÓLEO INDUSTRIAL */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '37', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '37', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '37', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '37', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '37', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '37', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '37', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '37', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '37', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '37', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '37', '11');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '37', '11');
+
+/* Superintendecia de Ventas Tula COMBUSTÓLEO */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '70947.593', '309461242.01', '2015-01-01', '37', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '62416.912', '221600334.06', '2015-02-01', '37', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '36215.347', '111529762.03', '2015-03-01', '37', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '65615.881', '244060290.55', '2015-04-01', '37', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '113785.204', '410797427.15', '2015-05-01', '37', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '132457.357', '509709768.37', '2015-06-01', '37', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '138343.099', '586950815.17', '2015-07-01', '37', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '142734.631', '605994111.67', '2015-08-01', '37', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '167827.02', '623534829.88', '2015-09-01', '37', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '189070.788', '556491611.20', '2015-10-01', '37', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '179263.107', '529782419.83', '2015-11-01', '37', '12');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '135025.494', '386701164.61', '2015-12-01', '37', '12');
+
+/* Superintendecia de Ventas Tula ASFALTO */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '26475.155', '240162475.19', '2015-01-01', '37', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '22575.572', '199338516.40', '2015-02-01', '37', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '22585.013', '189408260.62', '2015-03-01', '37', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19879.705', '160796373.22', '2015-04-01', '37', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '21931.61', '175958271.59', '2015-05-01', '37', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19490.87', '154606720.58', '2015-06-01', '37', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '17722.835', '137448227.18', '2015-07-01', '37', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '18284.833', '145103416.69', '2015-08-01', '37', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '19012.901', '141020954.35', '2015-09-01', '37', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '12877.677', '94891845.53', '2015-10-01', '37', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '17190.748', '123084653.18', '2015-11-01', '37', '13');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, '21421.705', '145611921.82', '2015-12-01', '37', '13');
+
+/* Superintendecia de Ventas Tula LUBRICANTES */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '37', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '37', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '37', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '37', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '37', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '37', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '37', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '37', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '37', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '37', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '37', '14');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '37', '14');
+
+/* Superintendecia de Ventas Tula PARAFINAS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '37', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '37', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '37', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '37', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '37', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '37', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '37', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '37', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '37', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '37', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '37', '15');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '37', '15');
+
+/* Superintendecia de Ventas Tula OTROS */
+
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-01-01', '37', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-02-01', '37', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-03-01', '37', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-04-01', '37', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-05-01', '37', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-06-01', '37', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-07-01', '37', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-08-01', '37', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-09-01', '37', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-10-01', '37', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-11-01', '37', '16');
+INSERT INTO `Venta` (`idVenta`, `volumen`, `valor`, `periodo`, `idPunto_de_Venta`, `idPetrolifero`) VALUES (NULL, NULL, NULL, '2015-12-01', '37', '16');
